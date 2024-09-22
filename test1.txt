@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-yeni txt 1123123 12
-=======
 yeni txt 123444545
->>>>>>> 0530952 (ben de değiştirdim)
